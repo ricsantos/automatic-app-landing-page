@@ -24,6 +24,7 @@ your_name                                 : Emil Baehr
 your_link                                 : https://emilbaehr.com                     
 your_city                                 : Copenhagen                                
 email_address                             : emil.baehr@gmail.com
+formspree_form_id                         : replaceme                                 # Enter your Formspree form ID here
 linkedin_username                         :                                           
 linkedin_company                          :                                           
 facebook_username                         :                                           

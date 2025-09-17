@@ -12,7 +12,7 @@ Whether you have questions, feedback, or need support, we're here to help. Fill 
 
 <br>
 
-<form action="https://formspree.io/f/replaceme" method="POST">    
+<form action="https://formspree.io/f/{{ site.formspree_form_id }}" method="POST">    
 <div class="form-group row">
 <div class="col-md-6">
 <input class="form-control" type="text" name="name" placeholder="Name*" required>
