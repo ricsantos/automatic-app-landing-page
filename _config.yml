@@ -144,3 +144,7 @@ collections:
 
 # Markdown rendering
 markdown: kramdown
+
+# Plugins
+plugins:
+  - jekyll-sitemap
